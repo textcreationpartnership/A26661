@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the funeral of ... Mr. Georg Ritschel, late minister of Hexham in Northumberland by Mr. Major Algood ... ; with an elegie on his death.</title>
+            <author>Algood, Major, 1641-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26661</idno>
+            <idno type="STC">Wing A925</idno>
+            <idno type="STC">ESTC R20315</idno>
+            <idno type="EEBO-CITATION">12609726</idno>
+            <idno type="OCLC">ocm 12609726</idno>
+            <idno type="VID">64319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 339:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the funeral of ... Mr. Georg Ritschel, late minister of Hexham in Northumberland by Mr. Major Algood ... ; with an elegie on his death.</title>
+                  <author>Algood, Major, 1641-1696.</author>
+               </titleStmt>
+               <extent>[1], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ritschel, George, 1616-1683.</term>
+               <term>Death --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64319:1"/>
+            <pb facs="tcp:64319:1" rendition="simple:additions"/>
+            <p>A SERMON Preached, at the Funeral of the Reverend and Learned M<hi rend="sup">R</hi>. GEORG RITSCHEL, Late Miniſter of Hexham in Northumberland:</p>
+            <p>By M<hi rend="sup">r</hi>. MAJOR ALGOOD, Rector of Symon-burn in the ſame County:</p>
+            <p>
+               <hi>With an Elegie on his Death.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Joſeph Hall,</hi> Bookſeller and Bookbinder on tyne Bridge Newcaſtle upon Tyne, 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:64319:2"/>
+            <pb n="3" facs="tcp:64319:2" rendition="simple:additions"/>
+            <head>Eccleſiaſtes 12: part of the 5 verſe. <hi>Becauſe man goeth to his long home.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He great matter neceſſary to be thought of in this life is, what shall become of us after death, and whither we shall goe when we goe hence. For here we have but a short time to ſtay, we are on our journey, and every moment brings us nigher to the end thereof; but wherever we goe to, after death, it is for ever and ever. Solomon tells us in his diſtribution of time, that there is a ſeaſon to every purpoſe under heaven, and amongſt the reſt he reckons a time to be borne, and a time to dye, but he tells us of no time to live, becauſe our life is uncertaine, death follows in ſome ſoon after the birth, and their cradle ſeems to ſtand on your graves, and thoſe that live longeſt are but of few dayes in reſpect of eternity. So that our life is to be reckoned rather a moment, then time, and yet on this moment doth depend our everlaſting happineſs in the next life. This all is allowed us to make proviſion for our long home.</p>
+            <p>In the words we may conſider.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:64319:3" rendition="simple:additions"/> 1. The ſubject man.</p>
+            <p n="2">2. His tranſitory eſtate and condition, expreſſed by way of travaile, goeth.</p>
+            <p n="3">3. The end of his journey to his home.</p>
+            <p n="4">4. The duration of that home, it is a long home.</p>
+            <p>To the firſt man. Man in general, that is every man, every woman, when our glorious God had by his infinite wiſedom made the world in a wonder<g ref="char:EOLhyphen"/>ful manner, and furnished it with all varietie and creatures for profit and pleaſure; at laſt after a moſt exquiſite manner he conſulted with himſelf for the shape of Man, and finding no creature fit enough for a pattern, concluded with himſelf to make man<g ref="char:EOLhyphen"/>kind as a lively reſſemblance (after ſome ſort) of his own majeſty, that he might both in ſoul and body repreſent his creator. Adams ſoule did moſt lively shadow out the divine eſſence, not onely in the ſim<g ref="char:EOLhyphen"/>plicity, inviſibleneſs, and immortality therof, but alſo in that power which it enjoyed, to know and to will.</p>
+            <p n="1">1. For mans body it did likewiſe reſemble God in ſeveral reſpects, but more eſpecially in that im<g ref="char:EOLhyphen"/>mortalitie, wherin it was at firſt created. The whole Man then mixt of body and ſoule was in the creation in a glorious ſtate of immortalitie, borde<g ref="char:EOLhyphen"/>ring
+<pb n="5" facs="tcp:64319:3"/>upon everlaſtingneſs, but it was not abſolutely, but conditionally. So it is true he had a power not to dye, if he had not ſinned; but there was a neceſſity he should dye when he had ſinned, for ſo the unal<g ref="char:EOLhyphen"/>terable charge runs,
+<note n="*" place="bottom">Gen. 2:17.</note> in the day thou eateſt therof, thou shalt ſurely dye. Thus was the ſtatute enacted that all muſt dye, which is not to be repeated. It hath bin put in execution from the beginning of the world to this time, and ſo shall be to the end of the world. We all come by the wombe, and we muſt go by the grave; from the arreaſt of death, there's no releaſement, from its ſentence, there's no ap<g ref="char:EOLhyphen"/>peale. Balthazars embleame is now written upon every mans wall, thou art weighed in the balance and art found wanting, and therfore thy life is divided, and given to death. It is not the Majeſty of a Prince, nor holineſs of a prophet, nor the gravity of a prelate that death reſpecteth. It is not ſtrength of body nor comlineſs of perſon, not tender years, nor the wiſedom of the aged, not profound learning, nor an abiſs of riches, can plead a pri<g ref="char:EOLhyphen"/>viledge againſt the grave. In other dangers there may be ſome way contrived by the will of man to eſcape them, power, treaſure, flyght, counſel, and policy may ſerve the turn; but there's no power in man to bannish death, no riches will buy it of, nor
+<pb n="6" facs="tcp:64319:4"/>can we fly from it, neither prevent it by counſel nor turn it back with pollicy. The greateſt and beſt of men, as well as the meaneſt and worſt muſt ſay with Job.
+<note n="*" place="bottom">Job. 17:14.</note> to corruption, thou art my Father: to the worm, thou art my Mother and my Siſter. Abel whoſe ſacrifice was accepted, as well as Cain whoſe offerings were rejected; Abraham the Father of the faithful, as well as the infidel Abimelech; Jacob whome God loved, as well as Eſau whome he hated, and David a man after Gods own heart, as well as Saul from whom he toke his holy Spirit, have bin all alike ſubject to the empire of death, and to the decree of God ſo that then death is the common roade of all the world of Man in general without exception.</p>
+            <p n="2">2. His tranſitorie ſtate and condition, goeth.</p>
+            <p>We are heere in this life performing a journey which we muſt one day finish. One goes before, and another followes after; one body rotts in the grave, and leaves room for another. Whether we go ſoft<g ref="char:EOLhyphen"/>ly, or run ſwiftly, our time ſtill ſpends, and every moment brings us more forward towards our jour<g ref="char:EOLhyphen"/>neys end, and nigher to our home, our bodies are but earthen cottagies, houſes of duſt, which fall before we are aware; our life runs on apace, and death rides poſt after, and often overtakes men, before ever
+<pb n="7" facs="tcp:64319:4"/>they thought it was nigh them, and when they leaſt thought of 't.</p>
+            <p>Our life is like a candle in the body, in one the wind maketh it ſweale away, in another it is blown out before it be halfe ſpent, and in other though it burn out to the end, yett it continues not long, at laſt vanisheth into ſmoake, and exſpires. Whether we ſleep or wake, whether we ſtand, ſitt, or walk, ſtill the courſe of our life goes on, till it be finished; we never make a ſtep forward on the ground, but it is a ſlep nigher to death.</p>
+            <p>My dayes ſaith Job. 7:6. are ſwifter then a wea<g ref="char:EOLhyphen"/>vers shuttle, and in the 9 chap. verſ. 25.26. now my dayes are ſwifter then a poſte: they flee away, they ſee no good; they are paſſed away as the ſwift ships: as the eagle that haſteth to the prey. Where he reckons our life by dayes, and not by yeares, as if it depended on moment, and not on time; but if on time it muſt be that which is preſent, not that which is to come. But although in theſe places he allowes men dayes to live here, yett in another place as if he had bin ſo prodigal in his account, he lakes up, and therfore he will have him to be a erea<g ref="char:EOLhyphen"/>ture but of yeſterday Job. 8.9. for we are but of yeſterday, and know nothing; becauſe our dayes upon earth are a shadow. And in deed we may be
+<pb n="8" facs="tcp:64319:5"/>very properly tearmed creatures of yeſterday, for a dying houre haſtens on us ſo faſt, that we cannot, aſſure our ſelfs of the light of another day, and the time of our journey end is ſo uncertaine that we know not but this very evening, our life may ſett with the ſunn, nay shut up with the next mo<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The brevity of our life has bin noted by the moſt learned amongſt the heathens. The Egyptians compared it to an Inn, where a man lodgeth for a night, and on the morning is gone; Ariſtotle to a certaine beaſt which is never but one day old, So<g ref="char:EOLhyphen"/>phocles to a shadow, and Homer to leaves which are blown away as faſt as they bud, and others to a dreame which at our awakening is gone, ſo tranſi<g ref="char:EOLhyphen"/>tory is the ſtate of man he is ſtill on his journey to death; he goeth.</p>
+            <p n="3">3. To his home. This world is like the wilder<g ref="char:EOLhyphen"/>neſs to Iſrael, we muſt goe through it before we can come to the land of promiſe to the place of reſt. We muſt goe through the red ſea of temptations in this life, the Divel pharaoh like following to deſtroy us, before we can come to our expected home.</p>
+            <p>This world is not our home but the way towards our home; it is but as our inns, or lodgings, where we are not to ſtay any long time, but reſt a night,
+<pb n="9" facs="tcp:64319:5" rendition="simple:additions"/>or ſo, take what is neceſſary for our repaſt, and refreshment, and then be going on in our journey. We muſt leave the place to other comers. Our gene<g ref="char:EOLhyphen"/>ration paſſeth and another cometh. They that come hereafter shall tread upon our graves as we doe now upon the ſepulchres of our fathers, they shall poſ<g ref="char:EOLhyphen"/>ſeſs our houſes, goods, and lands, as we doe theirs, who are gone before us.</p>
+            <p>Hence is't that the Apoſtle tells us Heb 13:14. for here we have no continuing city, but we ſeek one to come. And he teſtifieth of the Patriarch Abraham, that he was no more but a ſojourner in a ſtrang land, he dwelt with Iſaac, and Jacob in ta<g ref="char:EOLhyphen"/>bernacles Hebr. 11:9. He built no houſes, but ſuch as are uſed in warr; ſuch as are eaſily erected up, and ſoon taken down again. This he did, as alſo your fathers generally of the firſt ages of the world, that they might teſtifie their religion, that they did not account this world as their home, but a place from whence they muſt remove, they did not know how ſoone. Abram was in expectation of going home. and therfore we are told ver. 10. he looked for a city which had foundations, whoſe buil<g ref="char:EOLhyphen"/>der and maker is God, that is for heaven.</p>
+            <p>Beſides the prophet David acknowledgeth, that he was no other then a travailer in this life paſſing
+<pb n="10" facs="tcp:64319:6"/>to another. Pſ. 39:12. I am a ſtranger with thee, and a ſojourner as all my father were. Reaſon will in form us ſo much. For that is not to be eſteemed a mans home, where he came lately, and from whence he is shortly to depart, but where he is to continue the moſt part of his life. Upon this conſideration S<hi rend="sup">t</hi>. Peter in his 1 Epiſt. 2. chap. ver. 11. becoms a ſupplicant to Chriſtians. Dearly beloved, I beſeech you as ſtrangers and pilgrims abſtaine from fleshly luſts, which war againſt the ſoule. Prudent travailers carry nothing with them which may be burden<g ref="char:EOLhyphen"/>ſome to them in their journey, ſo this Apoſtle ad<g ref="char:EOLhyphen"/>viſeth that we have a care, ſince we are as pilgrims in this life, that we be not loaden with ſins, whoſe weight will hold us downe, and keep us from enter<g ref="char:EOLhyphen"/>ing in at the ſtraite gate.</p>
+            <p n="4">4. The duration of our home, it is a long home.</p>
+            <p>Wee are here in this life but for a moment, it can<g ref="char:EOLhyphen"/>not properly be called time; but wherever we go after death, it is for eternity. The longeſt day here hath its night, and the longeſt life ends in death; but the ſtate in the next life is unchangeable, without end. Whether we are to be placed amongſt the sheep or goates; whether we are to be crowned, or burned, it is for ever, the joy is an everlaſting joy, the pun<g ref="char:EOLhyphen"/>nishment,
+<pb n="11" facs="tcp:64319:6" rendition="simple:additions"/>whether it be heaven or hell we go to it is to be our long home.</p>
+            <p>The Antients uſed to repreſent this by their hiero<g ref="char:EOLhyphen"/>gliphicks, of a round ring, which hath no end, of a Hydra's head which growes as faſt as it is cutt of, of a running fountaine which ſpringeth as quickly as it floweth.</p>
+            <p>Arithmetick hath her figures to caſt up num<g ref="char:EOLhyphen"/>bers, Aſtronomie its inſtruments to take the height of the ſtarrs, mariners their plummets to ſound the depth of the ſea, but no invention of man can fa<g ref="char:EOLhyphen"/>thome the depth, height, length and breadth of eternitie, which is boundleſs and unlimited.</p>
+            <p>It was the thoughts of this, which did ſo much amaze a ſerious man, that ſitting very melancholly, not ſpeaking to any, nor reguarding thoſe who ſpoke to him, at laſt thoſe words burſt out, for ever, for ever, and for ſome time ſpoke nothing elſe: he afterward told his friends about him, that it was this for ever, which had wholy taken up his thoughts, and which he should never gett out of his mind.</p>
+            <p>And certainly when a man comes ſeriouſly to conſider with himſelf that death is an entrance to eterninity, opens a paſſage to a day that never shuts up, to a continuation of time which hath no end,
+<pb n="12" facs="tcp:64319:7"/>and with all doth ponder with himſelf, that after a short and uncertaine life here, he muſt lead an end leſs life either with God, or the Divel, either in heaven or hell, either in everlaſting joyes, or everlaſting flames (I dare ſay for him) it is enough to affright his ſoule, and to awaken his ſpirit from ſecurity as the mariners did Jonah in the tempeſt 1 Jon. 1:6. what meaneſt thou oh ſleeper, ariſe call upon thy God, if ſo be, that God will think on us, that we perish not.</p>
+            <p>Conſider then that man in general his ſtate is tranſi<g ref="char:EOLunhyphen"/>torie in this life, he's a travailer on his journey homeward, his home is not in this world, when he dyes he goeth home, and wherever he goe to, it is a long home ſo reternitie. Let us then uſe conſide<g ref="char:EOLhyphen"/>ration.</p>
+            <p>Conſideration is the key which openeth the dore to the cloſet of our hearts, where all our bookes of account doe lye. It is the very eye of our ſoule, where<g ref="char:EOLhyphen"/>by shee lookes into her eſtate; lett us now from what haith bin ſaid make a ſerious uſe of't, and conſider what a ſad and diſmal thing, it will be to miſcarrie for ever; what a wide door of mercie is offered to us in this moment of our life, in this conſiſts the oppor<g ref="char:EOLhyphen"/>tunitie to make our ſelfs happie for ever or miſerable without end. We are juſt now going on towards
+<pb n="13" facs="tcp:64319:7"/>our home, it is but one ſtroke of death, and we are gone in the twinckling of an eye, and God knowes whither, let us therfore be wiſe in this our day, be<g ref="char:EOLhyphen"/>fore our diſſolution apeareth, that a ſpeedy repentance may prevent our dwelling in darkneſs for ever. God ſaid of the church of Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atira, I gave her time to repent of her fornication, and shee re<g ref="char:EOLhyphen"/>pented not, lett not us give our good God occaſion of ſuch a complaint againſt us. It is perniciouſly dan<g ref="char:EOLhyphen"/>gerous to put of our conſciences calling for repen<g ref="char:EOLhyphen"/>tance, and to ſay to them as Felix to S. Paul,
+<note n="*" place="bottom">Act. 24. v. 25.</note> go thy way for this time, when I have a convenient ſea<g ref="char:EOLhyphen"/>ſon, I will call for thee. All delay in this great con<g ref="char:EOLhyphen"/>cern is too hazardous, the preſent time is ſtill the fitteſt and onely fit to Caſt up the accounts of our ſoules.</p>
+            <p>In deed if we could arreſt time, if we could ſtrike of the nimble wheels of its chariot, and could Josh<g ref="char:EOLhyphen"/>uah like command the ſun to ſtand ſtill, and make opportunity waite our leiſure, then there were ſome thing of excuſe for delay; but ſince we can noe more command the future then we can call back the by paſt time, it is but extreame madneſs to delay our hours. It is now in our power under the influence of Gods grace, to prepare for death, to repent of our
+<pb n="14" facs="tcp:64319:8"/>ſinns, and make our peace with God before we goe hence, and be no more ſeene; but it is not in our power to live till to morrow, our dayes, may cloſe up with this day, our life ſett this very evening with the ſunn, nay the next moment. If we looſe this op<g ref="char:EOLhyphen"/>portunity which preſents its ſelf, it can never be reco<g ref="char:EOLhyphen"/>vered, no not by moſt earneſt wishes, nor fervent deſire, nor a flood of Teares. Remember the ſad condition of prophane Eſau, for once deſpiſing the bleſſing, he looſed it for ever, and found no place of repentance, though he ſought it carefully with teares. To go on ſtill in a ſinful courſe of life, with hopes that we may repent when we dye, is to ven<g ref="char:EOLhyphen"/>ture all upon a very uncertaine after game, and juſt as if a mariner should be content to have his ship caſt away, upon bare hope, that he may eſcape on a planck, and gett ſafe to shore. How fondly do ſuch diſpoſe of that time which is not in their power, but in Gods hand, whilſt they vainly lett go that which God has given them.</p>
+            <p>The ſtork, the brane, the ſwallow know their ſeaſons, they know their appointed time, and how much more should man a creature whom God has endowed with reaſon, eſpecially ſince it is ſo very uncertaine how long we shall enjoy this oppor<g ref="char:EOLhyphen"/>tunitie.</p>
+            <pb n="15" facs="tcp:64319:8"/>
+            <p> All creatures under the ſunn doe naturally intend their own preſervation, and deſire that happineſs which is agreeable to their nature, and shall man their Lord be impiously careleſs of his eternal, and ever<g ref="char:EOLhyphen"/>laſting welfare? Death ſtands ready to ſnatch us away, conſcience perſuades, Hell threatens, and heaven invites to prepare, to lay up a good founda<g ref="char:EOLhyphen"/>tion for the next life, for a long and happy home. Lett us not then be ſecure, but ſett to work, whilſt it is called to day; for as the wiſe preacher
+<note n="*" place="bottom">Eccl. 9:10.</note> tells us, there's no work nor device nor knowledge in the grave, whither thou goeſt. What a ſad and fatal thing is't for men to run head long to their long home, like the rich glutton in the ghoſple, who never was ſenſible of his eſtate till he was in torment; he then found to his ſorrow that out of the pitt there's no redemption.</p>
+            <p>He leads a life ſuetable to his Chriſtian profeſſion, who dayly is in expectation to leave it. The beſt guide of our life here is the often conſideration of our death, and what shall become of us when wee go hence.</p>
+            <p>Wee need not wonder to ſee men ſo very indu<g ref="char:EOLhyphen"/>ſtriously carefull to avoide death, it is naturally ter<g ref="char:EOLhyphen"/>rible; but this is it which all good men and even Angels may admire at, to ſee Chriſtians ſo general<g ref="char:EOLhyphen"/>ly
+<pb n="16" facs="tcp:64319:9"/>careleſs, to lay up a good foundation for a future life. For there's nothing certainly which makes death ſo terrible, as the eſtate which followes after: if our long home be in heaven death is a joyful birth day, and the day of it better then the day of our firſt birth; but if it be in the Divels manſions, it is but the beginnig of endleſs miſerie.</p>
+            <p>Let us therfore be perſuaded to make uſe of our time, and learn in this our day the things which belong to our peace, before they be hid from our eyes, before our feet be manacled in the duſt, and our arms rott of from our shoulders in the grave. Do that before death, which may doe you good when you are dead, but can never be done after. Live the life of the righteous, and dye the death of the righteous, dye the death of the righteous, and live for ever in a long and happy manner.</p>
+            <p>That I may preſs this further, behold ther's before your eyes a ſpectacle of mortality, the body of our deceaſed Brother, which wee are mett together to bring to its own houſe as the prophet Eſay
+<note n="*" place="bottom">Eſa. 14:18.</note> calls the grave, to lay it up in the duſt, after all its great labour, long journeys, and tedious travaile on earth, his ſoule being gone before to take poſſeſſion of its long and happy home. I muſt therfore now leave the other, and apply my ſelf to this text. To ſay nothing
+<pb n="17" facs="tcp:64319:9"/>were to be injurious to his worth, and to hide thoſe vertues which shined bright in him, and may ſerve for our imitation. Whatever the envious may ſay, or think, it is no fault to commend them at their death, who have bin commendable in their life. It was the ancient cuſtome of the church to celebrate the memorie of holy men, that thereby others might be moved to follow their examples.</p>
+            <p>As for his extraction I muſt be ſilent in it, he being a Bohemian borne, and that perticuler unknown to us; yett (let me ſay) a man of meane obſerva<g ref="char:EOLhyphen"/>tion by his deportment might gueſs, it was of more than an ordinary ranck; I shall therfore onely ſpeake my knowledg of him, haveing had an intimacie with him for a bove twenty yeares togeather.</p>
+            <p>As for his moral honeſtie it was very exemplar: I appeale to you all here preſent, whether he has not left a good report behind him, and a good name, which is better then precious ointment, not one of this parish, or elswhere can (I am confident) complaine of any unjuſt dealing by him, nor can the poore this day ſend curſſes to his grave. I may juſtly in his behalfe take up Samuels * chalenge whoſe ox has he taken? whoſe aſs? or whom has he defrauded? whom has he oppreſſed? or of whoſe hand has he received any bribe to blind his eyes
+<pb n="18" facs="tcp:64319:10"/>therewith, and I promiſe to reſtore it. So critical was he even to the minute parts of honeſty, that if thorough inadvertency he had done any thing, which did but looke like unjuſtneſs, though no perſon was prejudiced by the ſame, it was an affliction to his mind. And as he did practice honeſty himſelf, as if he had known nothing elſe, ſo did he allwayes love honeſt men, and ſett a juſt value on ſuch; but when he found any man to be otherwiſe, how would he condole his condition; and heartily ſigh for him, his looke at the ſame time ſpeaking the thoughts of his heart, how ſorry he was that any man should be a knave, how ſeriouſly would he endeavoure to reclaime ſuch?</p>
+            <p>In his converſation and friendship he was a Na<g ref="char:EOLhyphen"/>thaniel one in whom there was no guile, cordial and faithful without baſeneſs and low diſſimulation, and loved a true friend as himſelf.</p>
+            <p>As for his learning it would require a more able encomiſt then my ſelf, but, in magnis voluiſſe ſat eſt. His memorie was great, his judgment greater, and his paines in ſtudy all moſt infinite; <hi>ſo that I may truly ſay of him, had he but had encouragement, conve<g ref="char:EOLhyphen"/>niently and opportunities anſwerable to his great parts, he might have bin a great light to this northern corner of the land, made himſelf the envie of this age, and a shadow
+<pb n="19" facs="tcp:64319:10"/>to obſcure learned men about him.</hi> Had he not bin more then ordinarily learned, when he came a young man into England, the famous univerſitie of Oxford renowned thoroughout the civiliſed part of the whole world had not taken ſo much notice of him, nor had ſome learned men there (contracting an in<g ref="char:EOLhyphen"/>timacy with him at his firſt comeing to that place) continued a correſpondencie with him, till a little before his death. From Oxford he came to the de<g ref="char:EOLhyphen"/>ſervedly renowned, and antient corporation of Newcaſtle upon Tine, where he was maſter of the free Schoole for ſeveral yeares, and how he behaved himſelf in that ſtation, I appeale to thoſe that knew him there. Being wearied out with that toilſome em<g ref="char:EOLhyphen"/>ployment, he removed to this town of Hexam, fa<g ref="char:EOLhyphen"/>mous in the time of the ſaxons, and yett in hiſtory, for that it was then a Bishops ſeate and enjoyed ten Bishops ſucceſſively, John of Beverly, who as ſome hiſtorians note was the firſt maſter of Arts of the U<g ref="char:EOLhyphen"/>niverſitie of Oxford, being placed as the ſecond Bishops here; now made famous againe by enjoying the Learned Ritſchell as its vicar for above twenty yeares together. He is now dead, yett he lives amongſt learned ſocieties, and will I doubt not) to many generations in his imetaphyſicks, prized ſo highly abroad that Germany but of late deſired the reprin<g ref="char:EOLhyphen"/>ting
+<pb n="20" facs="tcp:64319:11" rendition="simple:additions"/>of them and they were ſo with ſome addition. By his other books, concerning the rites and cere<g ref="char:EOLhyphen"/>monies of the church of England published immedia<g ref="char:EOLhyphen"/>tely after his majeſties happy return, he shewed what ſtamp he was of, <hi>that he was an enemie to all innovation in the church.</hi> This ſeaſonable defence of the church of England was very pleaſing to that famous <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the ſame D<hi rend="sup">r</hi>. John Coſins late Bishop of Durham, eſpecially being performed by a for<g ref="char:EOLhyphen"/>reigner born, and he did ever after him a venera<g ref="char:EOLhyphen"/>ble reſpect.</p>
+            <p>I hope for what I wish that God will ſtir up ſome of the reverend fathers of this church to caſt a favourable eye upon his two hopeful ſons both edu<g ref="char:EOLhyphen"/>cated in Oxford, and reward them for the fathers paines.</p>
+            <p>But that which did crown all his other excellencies was his piety which was ſinguler. In his familie he was a Joshuah, he and his houſe ſerveing the Lord dayly; what he was in the church. I need not in<g ref="char:EOLhyphen"/>form you but call your conſcienſes to wittneſs, hopeing that you will nevers forgett thoſe good inſtructions he ſowed amongſt you ſo plentifully.</p>
+            <p>I may as well as any give this teſtimonie of him, he had not much of the form nor outſide of religion, but was very carefull for the power therof, and the
+<pb n="21" facs="tcp:64319:11"/>eſſential parts which might make him truly be rather then ſeeme religious Such was this wiſe, this wor<g ref="char:EOLhyphen"/>thy, this learned, and religious gentleman, who on weddens day ſevennight was ſodainlye ſtruck with a fatal palſie, which brought him in a weeks time to the end of his journey, that he might go home and reſt from his labours. By what means I know not but it ſeemes ſome way God did conveigh it to his ſpirit, that his diſſolution drew nigh, before ever death made any shew by any natural ſignifica<g ref="char:EOLhyphen"/>tion Whether he did it deſignedly or not is more, then I can ſay, but I find that the laſt ſermon he prea<g ref="char:EOLhyphen"/>ched might very well have paſſed for his own fu<g ref="char:EOLhyphen"/>neral ſermon takeing in a prophetick way for his text 2 Tim. 1:12. For the which cauſe I allſo ſuf<g ref="char:EOLhyphen"/>fer theſe things; nevertheleſs I am not aſshamed, for I know whom I have beleeved, and I am per<g ref="char:EOLhyphen"/>ſuaded that 'h is able to keep that which I have com<g ref="char:EOLhyphen"/>mitted unto him unto that day, nor was this onely his laſt text, but theſe words the very laſt that he ſpoke I know whom I have beleeved &amp;c. commen<g ref="char:EOLhyphen"/>ding his ſoule now to God to whom he had before committed it, and reſting on Chriſt with a firm certaintye of ſalvation. Thus did he shutt up his dayes, as he lived, ſo he dyed piouſly and reli<g ref="char:EOLhyphen"/>giouſly; and this may be ſome eaſe to his ſor<g ref="char:EOLhyphen"/>rowful
+<pb n="22" facs="tcp:64319:12" rendition="simple:additions"/>relations, ſome guide to our life and death.</p>
+            <p>He is gone before we are following after God of his infinite mercie enable us to travaile thorough a life of cares, and miſerie, ſo that at laſt we may come to a long, and ever happy home. To which God &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <head>An Elegie upon the Worthy and Reverend M<hi rend="sup">r</hi>. Georg Ritſchel. &amp;c.</head>
+            <lg>
+               <head>Vivitur ingenio.</head>
+               <l>LEt no fond tears bedew thy herſe</l>
+               <l>Bid the favorite Muſe rejoyce</l>
+               <l>And with triumphant verſe</l>
+               <l>The muſick imitate of thy exalted voyce</l>
+               <l>Bid her do ſomething to comply</l>
+               <l>With the empyrean poetry.</l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>From noiſy mirth tumultuous pleaſures free</l>
+               <l>Let her aſcend like thee</l>
+               <l>Above the bounds of this tempeſtuous air</l>
+               <l>Above the ſtorms of grief, or clouds of care</l>
+               <l>There in ſmooth thoughts, and notions beſt refined</l>
+               <l>Enjoy the ſerene <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the mind.</l>
+            </lg>
+            <lg>
+               <pb n="23" facs="tcp:64319:12" rendition="simple:additions"/>
+               <head>3.</head>
+               <l>Alas our <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llow wings in vain</l>
+               <l>Attempt that airy leight</l>
+               <l>And tired with too ſublime a flight.</l>
+               <l>To their connatural earth return again</l>
+               <l>Thy mind was all of pureſt flame</l>
+               <l>And well could bear that place from whence it came</l>
+               <l>Thy ſtrong devotion and thy lofty witt</l>
+               <l>This did to heaven-aſſend, that brought heaven down to it</l>
+            </lg>
+            <lg>
+               <head>4.</head>
+               <l>Tell how thy ſpatious ſoul could fathom all</l>
+               <l>Which we auguſt and ſacred call</l>
+               <l>And all the joy contain which from them ſpirings</l>
+               <l>And yet deſend ſo low</l>
+               <l>As after this to know</l>
+               <l>The leaſt affections of the meaneſt things.</l>
+            </lg>
+            <lg>
+               <head>5.</head>
+               <l>Evanid matter could not ſcape thy eye</l>
+               <l>Though in a thoms and shapes conceiled it lye</l>
+               <l>Prote<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of nature to thy sharper ſight</l>
+               <l>Chaos it ſelfe was light</l>
+               <l>To the its in moſt ſecrets it betrayed</l>
+               <l>And shew'd a midſt the gloomy shade</l>
+               <l>Th' imperfect Embryo of the world unmade.</l>
+            </lg>
+            <lg>
+               <head>6.</head>
+               <l>Thou ſoweſt that hidden chain</l>
+               <l>With which we ſtrive in vain</l>
+               <pb n="24" facs="tcp:64319:13" rendition="simple:additions"/>
+               <l>And in the midſt of ſeeming liberty</l>
+               <l>When moſt we boaſt of being free</l>
+               <l>No more then priſoners at large remain</l>
+               <l>Thou knoweſt the laws of nature and of fate</l>
+               <l>Nay what is more of fancy too</l>
+               <l>And kept within thy view</l>
+               <l>What ever God or poets did create.</l>
+            </lg>
+            <lg>
+               <head>7.</head>
+               <l>Enjoy thy fruitfull contemplations now</l>
+               <l>For they the ſame continue ſtill</l>
+               <l>And thy enlarged underſtanding fill</l>
+               <l>Nor one poor grain for humane frailty allow</l>
+            </lg>
+            <lg>
+               <head>8.</head>
+               <l>Enjoy thy fate and if our low affaires</l>
+               <l>Can touch thee not diſturb thy breaſt</l>
+               <l>Nor interrupt thy eternal reſt</l>
+               <l>Look upon us whom empty cares</l>
+               <l>And frivolous doubts unquiet keep</l>
+               <l>Nor yeild to better thought, or thoughtleſſe ſleep</l>
+               <l>So may our ſuns ſlide ſoftly as thine away</l>
+               <l>And our <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dyes let in an everlaſting day.</l>
+            </lg>
+            <closer>
+               <signed>I. H.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
